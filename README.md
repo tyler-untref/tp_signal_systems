@@ -32,7 +32,7 @@ La siguiente [presentación](https://docs.google.com/presentation/d/1XJAI0wFRRS6
         <th>Test</th>
  	</tr>
  	<tr>
-  		<td rowspan="3"><a href="notebooks/primer_entrega.ipynb">1° entrega</a></td>
+  		<td rowspan="3"><a href="resolucion/primer_entrega.ipynb">1° entrega</a></td>
    		<td>Función de sintetización de ruido rosa</td>
 		<td>Se utiliza para ajustar el nivel de la fuente al menos a 45 dB por encima del nivel de ruido de fondo en la banda de frecuencia correspondiente</td>
    		<td rowspan="3" style="text-align:left"><ul><li>Corroborar que ambas funciones (Ruido rosa - Sine sweep logarítmico + Filtro
@@ -49,7 +49,7 @@ La siguiente [presentación](https://docs.google.com/presentation/d/1XJAI0wFRRS6
    		<td>Se utiliza para adquirir y reproducir las señales durante una medición in-situ.</td>
  	</tr>
     <tr>
-  		<td rowspan="5"><a href="notebooks/segunda_entrega.ipynb">2° entrega</a></td>
+  		<td rowspan="5"><a href="resolucion/segunda_entrega.ipynb">2° entrega</a></td>
    		<td>Función de carga de archivos de audio (dataset)</td>
 		<td>Se utiliza para administrar información al software y evaluar los parámetros acústicos ISO 3382 de dichos audio</td>
    		<td rowspan="5" style="text-align:left"><ul><li>Verificar el espectro de los filtros generados, utilizando scipy.</li><li>Obtener respuesta al impulso a partir de los 
@@ -74,7 +74,7 @@ La siguiente [presentación](https://docs.google.com/presentation/d/1XJAI0wFRRS6
 		<td>Se utiliza para visualizar la señal en una escala más acorde al fenómeno que se estudia</td>
     </tr>
     <tr>
-  		<td rowspan="5"><a href="notebooks/tercer_entrega.ipynb">3° entrega</a></td>
+  		<td rowspan="5"><a href="resolucion/tercer_entrega.ipynb">3° entrega</a></td>
    		<td>Función suavizado de señal</td>
    		<td>Se utiliza para las fluctuaciones producto del ruido intrínseco en la respuesta al impulso.</td>
    		<td rowspan="5" style="text-align:left">
