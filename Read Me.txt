@@ -1,0 +1,398 @@
+
+Format(s): 
+Mono
+B-Format (4 Channel Files)
+
+Mono: 
+
+    middle_tunnel_1way_mono.wav
+
+Sample Rate: 96 kHz
+Number of Channels: 1
+Bits per Sample: 24
+Duration: 5 s
+File Size: 1.37 MB
+File Format: wav
+Source Receiver Distance (m): 10 m
+Source Height: 1.5 m
+Receiver Height: 1.5 m
+Temperature: 17 °C
+
+
+    middle_tunnel_4way_mono.wav
+
+Sample Rate: 96 kHz
+Number of Channels: 1
+Bits per Sample: 24
+Duration: 5 s
+File Size: 1.37 MB
+File Format: wav
+Source Receiver Distance (m): 10 m
+Source Height: 1.5 m
+Receiver Height: 1.5 m
+Temperature: 17 °C
+
+
+    tunnel_entrance_a_1way_mono.wav
+
+Sample Rate: 96 kHz
+Number of Channels: 1
+Bits per Sample: 24
+Duration: 5 s
+File Size: 1.37 MB
+File Format: wav
+Source Receiver Distance (m): 5 m
+Source Height: 1.5 m
+Receiver Height: 1.5 m
+Temperature: 17 °C
+
+
+    tunnel_entrance_b_1way_mono.wav
+
+Sample Rate: 96 kHz
+Number of Channels: 1
+Bits per Sample: 24
+Duration: 5 s
+File Size: 1.37 MB
+File Format: wav
+Source Receiver Distance (m): 5 m
+Source Height: 1.5 m
+Receiver Height: 1.5 m
+Temperature: 17 °C
+
+
+    tunnel_entrance_c_1way_mono.wav
+
+Sample Rate: 96 kHz
+Number of Channels: 1
+Bits per Sample: 24
+Duration: 5 s
+File Size: 1.37 MB
+File Format: wav
+Source Receiver Distance (m): 5 m
+Source Height: 1.5 m
+Receiver Height: 1.5 m
+Temperature: 17 °C
+
+
+    tunnel_entrance_d_1way_mono.wav
+
+Sample Rate: 96 kHz
+Number of Channels: 1
+Bits per Sample: 24
+Duration: 5 s
+File Size: 1.37 MB
+File Format: wav
+Source Receiver Distance (m): 5 m
+Source Height: 1.5 m
+Receiver Height: 1.5 m
+Temperature: 17 °C
+
+
+    tunnel_entrance_e_1way_mono.wav
+
+Sample Rate: 96 kHz
+Number of Channels: 1
+Bits per Sample: 24
+Duration: 5 s
+File Size: 1.37 MB
+File Format: wav
+Source Receiver Distance (m): 5 m
+Source Height: 1.5 m
+Receiver Height: 1.5 m
+Temperature: 17 °C
+
+
+    tunnel_entrance_f_1way_mono.wav
+
+Sample Rate: 96 kHz
+Number of Channels: 1
+Bits per Sample: 24
+Duration: 5 s
+File Size: 1.37 MB
+File Format: wav
+Source Receiver Distance (m): 5 m
+Source Height: 1.5 m
+Receiver Height: 1.5 m
+Temperature: 17 °C
+
+
+    tunnel_entrance_a_4way_mono.wav
+
+Sample Rate: 96 kHz
+Number of Channels: 1
+Bits per Sample: 24
+Duration: 5 s
+File Size: 1.37 MB
+File Format: wav
+Source Receiver Distance (m): 5 m
+Source Height: 1.5 m
+Receiver Height: 1.5 m
+Temperature: 17 °C
+
+
+    tunnel_entrance_b_4way_mono.wav
+
+Sample Rate: 96 kHz
+Number of Channels: 1
+Bits per Sample: 24
+Duration: 5 s
+File Size: 1.37 MB
+File Format: wav
+Source Receiver Distance (m): 5 m
+Source Height: 1.5 m
+Receiver Height: 1.5 m
+Temperature: 17 °C
+
+
+    tunnel_entrance_c_4way_mono.wav
+
+Sample Rate: 96 kHz
+Number of Channels: 1
+Bits per Sample: 24
+Duration: 5 s
+File Size: 1.37 MB
+File Format: wav
+Source Receiver Distance (m): 5 m
+Source Height: 1.5 m
+Receiver Height: 1.5 m
+Temperature: 17 °C
+
+
+    tunnel_entrance_d_4way_mono.wav
+
+Sample Rate: 96 kHz
+Number of Channels: 1
+Bits per Sample: 24
+Duration: 5 s
+File Size: 1.37 MB
+File Format: wav
+Source Receiver Distance (m): 5 m
+Source Height: 1.5 m
+Receiver Height: 1.5 m
+Temperature: 17 °C
+
+
+    tunnel_entrance_e_4way_mono.wav
+
+Sample Rate: 96 kHz
+Number of Channels: 1
+Bits per Sample: 24
+Duration: 5 s
+File Size: 1.37 MB
+File Format: wav
+Source Receiver Distance (m): 5 m
+Source Height: 1.5 m
+Receiver Height: 1.5 m
+Temperature: 17 °C
+
+
+    tunnel_entrance_f_4way_mono.wav
+
+Sample Rate: 96 kHz
+Number of Channels: 1
+Bits per Sample: 24
+Duration: 5 s
+File Size: 1.37 MB
+File Format: wav
+Source Receiver Distance (m): 5 m
+Source Height: 1.5 m
+Receiver Height: 1.5 m
+Temperature: 17 °C
+
+B-Format: Multichannel: 
+
+    middle_tunnel_1way_bformat.wav
+
+Sample Rate: 96 kHz
+Number of Channels: 4
+Bits per Sample: 24
+Duration: 5 s
+File Size: 5.49 MB
+File Format: wav
+Source Receiver Distance (m): 10 m
+Source Height: 1.5 m
+Receiver Height: 1.5 m
+Temperature: 17 °C
+
+
+    middle_tunnel_4way_bformat.wav
+
+Sample Rate: 96 kHz
+Number of Channels: 4
+Bits per Sample: 24
+Duration: 5 s
+File Size: 5.49 MB
+File Format: wav
+Source Receiver Distance (m): 10 m
+Source Height: 1.5 m
+Receiver Height: 1.5 m
+Temperature: 17 °C
+
+
+    tunnel_entrance_a_1way_bformat.wav
+
+Sample Rate: 96 kHz
+Number of Channels: 4
+Bits per Sample: 24
+Duration: 5 s
+File Size: 5.49 MB
+File Format: wav
+Source Receiver Distance (m): 5 m
+Source Height: 1.5 m
+Receiver Height: 1.5 m
+Temperature: 17 °C
+
+
+    tunnel_entrance_b_1way_bformat.wav
+
+Sample Rate: 96 kHz
+Number of Channels: 4
+Bits per Sample: 24
+Duration: 5 s
+File Size: 5.49 MB
+File Format: wav
+Source Receiver Distance (m): 5 m
+Source Height: 1.5 m
+Receiver Height: 1.5 m
+Temperature: 17 °C
+
+
+    tunnel_entrance_c_1way_bformat.wav
+
+Sample Rate: 96 kHz
+Number of Channels: 4
+Bits per Sample: 24
+Duration: 5 s
+File Size: 5.49 MB
+File Format: wav
+Source Receiver Distance (m): 5 m
+Source Height: 1.5 m
+Receiver Height: 1.5 m
+Temperature: 17 °C
+
+
+    tunnel_entrance_d_1way_bformat.wav
+
+Sample Rate: 96 kHz
+Number of Channels: 4
+Bits per Sample: 24
+Duration: 5 s
+File Size: 5.49 MB
+File Format: wav
+Source Receiver Distance (m): 5 m
+Source Height: 1.5 m
+Receiver Height: 1.5 m
+Temperature: 17 °C
+
+
+    tunnel_entrance_e_1way_bformat.wav
+
+Sample Rate: 96 kHz
+Number of Channels: 4
+Bits per Sample: 24
+Duration: 5 s
+File Size: 5.49 MB
+File Format: wav
+Source Receiver Distance (m): 5 m
+Source Height: 1.5 m
+Receiver Height: 1.5 m
+Temperature: 17 °C
+
+
+    tunnel_entrance_f_1way_bformat.wav
+
+Sample Rate: 96 kHz
+Number of Channels: 4
+Bits per Sample: 24
+Duration: 5 s
+File Size: 5.49 MB
+File Format: wav
+Source Receiver Distance (m): 5 m
+Source Height: 1.5 m
+Receiver Height: 1.5 m
+Temperature: 17 °C
+
+
+    tunnel_entrance_a_4way_bformat.wav
+
+Sample Rate: 96 kHz
+Number of Channels: 4
+Bits per Sample: 24
+Duration: 5 s
+File Size: 5.49 MB
+File Format: wav
+Source Receiver Distance (m): 5 m
+Source Height: 1.5 m
+Receiver Height: 1.5 m
+Temperature: 17 °C
+
+
+    tunnel_entrance_b_4way_bformat.wav
+
+Sample Rate: 96 kHz
+Number of Channels: 4
+Bits per Sample: 24
+Duration: 5 s
+File Size: 5.49 MB
+File Format: wav
+Source Receiver Distance (m): 5 m
+Source Height: 1.5 m
+Receiver Height: 1.5 m
+Temperature: 17 °C
+
+
+    tunnel_entrance_c_4way_bformat.wav
+
+Sample Rate: 96 kHz
+Number of Channels: 4
+Bits per Sample: 24
+Duration: 5 s
+File Size: 5.49 MB
+File Format: wav
+Source Receiver Distance (m): 5 m
+Source Height: 1.5 m
+Receiver Height: 1.5 m
+Temperature: 17 °C
+
+
+    tunnel_entrance_d_4way_bformat.wav
+
+Sample Rate: 96 kHz
+Number of Channels: 4
+Bits per Sample: 24
+Duration: 5 s
+File Size: 5.49 MB
+File Format: wav
+Source Receiver Distance (m): 5 m
+Source Height: 1.5 m
+Receiver Height: 1.5 m
+Temperature: 17 °C
+
+
+    tunnel_entrance_e_4way_bformat.wav
+
+Sample Rate: 96 kHz
+Number of Channels: 4
+Bits per Sample: 24
+Duration: 5 s
+File Size: 5.49 MB
+File Format: wav
+Source Receiver Distance (m): 5 m
+Source Height: 1.5 m
+Receiver Height: 1.5 m
+Temperature: 17 °C
+
+
+    tunnel_entrance_f_4way_bformat.wav
+
+Sample Rate: 96 kHz
+Number of Channels: 4
+Bits per Sample: 24
+Duration: 5 s
+File Size: 5.49 MB
+File Format: wav
+Source Receiver Distance (m): 5 m
+Source Height: 1.5 m
+Receiver Height: 1.5 m
+Temperature: 17 °C
