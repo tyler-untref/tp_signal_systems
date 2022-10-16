@@ -1,0 +1,12 @@
+  tunnel_entrance_c_1way_mono.wav
+
+Sample Rate: 96 kHz
+Number of Channels: 1
+Bits per Sample: 24
+Duration: 5 s
+File Size: 1.37 MB
+File Format: wav
+Source Receiver Distance (m): 5 m
+Source Height: 1.5 m
+Receiver Height: 1.5 m
+Temperature: 17 °C
